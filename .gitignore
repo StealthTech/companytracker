@@ -1,7 +1,7 @@
 # Python Virtual Environment
 env/
 
-# Python cache files
+# Python Cache Files
 __pycache__
 *.pyc
 
@@ -10,3 +10,9 @@ __pycache__
 
 # SQLite 3 Databases
 *.sqlite3
+
+# Configuration Files
+*.conf
+
+# .idea Meta Files
+.idea/
