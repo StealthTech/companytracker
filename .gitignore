@@ -1,0 +1,12 @@
+# Python Virtual Environment
+env/
+
+# Python cache files
+__pycache__
+*.pyc
+
+# OS X Folder Information
+.DS_Store
+
+# SQLite 3 Databases
+*.sqlite3
